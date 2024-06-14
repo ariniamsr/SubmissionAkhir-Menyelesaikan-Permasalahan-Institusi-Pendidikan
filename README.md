@@ -46,6 +46,11 @@ Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Se
 ```
 streamlit run app.py
 ```
+### Bagaiamana mencoba prototype secara online?
+Melalui link dibawah ini:
+```
+https://student-performance-ariniamsr.streamlit.app/
+```
 
 ## Conclusion
 - Komposisi siswa terdiri dari 65.6% Laki-laki dan 34.4% Perempuan.
